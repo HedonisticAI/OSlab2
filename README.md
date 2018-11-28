@@ -1,2 +1,2 @@
-Ls -ela
+Ls -la
 
