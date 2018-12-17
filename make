@@ -1,2 +1,3 @@
 all:
-	gcc lab1.c
+	gcc main.c -o ф -Wall
+	./ф
