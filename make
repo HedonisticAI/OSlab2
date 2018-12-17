@@ -1,3 +1,3 @@
 all:
-	gcc main.c -o ф -Wall
-	./ф
+	gcc main.c -o a-Wall
+	./a
